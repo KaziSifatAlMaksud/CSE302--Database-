@@ -21,7 +21,6 @@
 > - [Project-Report.pdf]()
 
 ## HOME PAGE
-<img src="https://drive.google.com/drive/folders/109mDRSn2ISwZiF98HLeKyIqEFo7UbGaQ" alt="Girl in a jacket" width="500" height="600">
 ## Contributors
 
 
