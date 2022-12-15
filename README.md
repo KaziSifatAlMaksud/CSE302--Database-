@@ -7,7 +7,7 @@
     > - user name: admin
     > - password: admin123
 - View our project as a Reader
-    > - user name: Ashiq
+    > - user name: sifat
     > - password: admin123
 
 ## Used Tool
